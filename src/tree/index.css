@@ -1,0 +1,19 @@
+.node{
+  margin-left: 20px;
+  overflow: hidden;
+}
+
+.node.close{
+  height: 30px;
+}
+
+.node label{
+  overflow: hidden;
+  height: 30px;
+  line-height: 30px;
+}
+
+.right{
+  float: right;
+  margin-left: 5px;
+}
